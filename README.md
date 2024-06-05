@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @NewName4Me
-- 👀 I’m interested in game designs mostly, programming and 3d modeling
-- 🌱 I’m currently learning web develpment (DAW)
-- I'm trying to become a great programmer and make some games on my free time
-- Still on the basics so far
+# 👋 Hi, Soy Erik
+- 👀 Estoy interesado en diseño de videojuegos, desarollo web y diseño 3D.
+- 🌱 Actualmente estoy estudiando DAW
+- 👨‍💻 Estoy intentando volverme un gran programador y desarrollar juegos y proyectos varios en mi tiempo libre
+- 🥑 Todavía en las bases
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewName4Me )](https://github.com/NewName4Me /github-readme-stats)
