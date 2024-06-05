@@ -4,4 +4,4 @@
 - 👨‍💻 Estoy intentando volverme un gran programador y desarrollar juegos y proyectos varios en mi tiempo libre
 - 🥑 Todavía en las bases
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewName4Me )](https://github.com/NewName4Me /github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewName4Me )](https://github.com/NewName4Me/github-readme-stats)
