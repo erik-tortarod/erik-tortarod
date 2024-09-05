@@ -1,5 +1,4 @@
 # 💫 Sobre mi:
-+  👋 Hi, Soy Erik
 + 👀 Estoy interesado en diseño de videojuegos, desarollo web y diseño 3D.
 + 🌱 Actualmente estoy estudiando DAW
 + 👨‍💻 Estoy intentando volverme un gran desarrollador backend, además de crear juegos y proyectos varios en mi tiempo libre
