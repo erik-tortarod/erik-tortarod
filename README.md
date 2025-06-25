@@ -1,8 +1,8 @@
 # 💫 Sobre mi:
 + 👀 Estoy interesado en diseño de videojuegos, desarollo web y diseño 3D.
 + 🌱 Graduado en DAW y especializandome en IA
-+ 👨‍💻 Estoy intentando volverme un gran desarrollador backend, además de crear juegos y proyectos varios en mi tiempo libre
-+ 🥑 Todavía en las bases
++ 👨‍💻 Estoy intentando volverme un gran desarrollador fullstack, además de crear juegos y proyectos varios en mi tiempo libre
++ 🥑 Quiero crear proyectos que de verdad importan y ayuden a otros
 
 
 ## 🌐 Socials:
